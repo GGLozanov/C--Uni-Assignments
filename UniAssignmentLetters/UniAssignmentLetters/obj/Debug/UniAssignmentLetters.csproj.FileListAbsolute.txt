@@ -1,0 +1,6 @@
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentLetters\UniAssignmentLetters\bin\Debug\UniAssignmentLetters.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentLetters\UniAssignmentLetters\bin\Debug\UniAssignmentLetters.pdb
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentLetters\UniAssignmentLetters\obj\Debug\UniAssignmentLetters.csprojAssemblyReference.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentLetters\UniAssignmentLetters\obj\Debug\UniAssignmentLetters.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentLetters\UniAssignmentLetters\obj\Debug\UniAssignmentLetters.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentLetters\UniAssignmentLetters\obj\Debug\UniAssignmentLetters.pdb

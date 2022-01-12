@@ -1,0 +1,6 @@
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentFour\UniAssignmentFour\bin\Debug\UniAssignmentFour.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentFour\UniAssignmentFour\bin\Debug\UniAssignmentFour.pdb
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentFour\UniAssignmentFour\obj\Debug\UniAssignmentFour.csprojAssemblyReference.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentFour\UniAssignmentFour\obj\Debug\UniAssignmentFour.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentFour\UniAssignmentFour\obj\Debug\UniAssignmentFour.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentFour\UniAssignmentFour\obj\Debug\UniAssignmentFour.pdb

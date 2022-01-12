@@ -1,0 +1,6 @@
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentPreExam2\UniAssignmentPreExam2\obj\Debug\UniAssignmentPreExam2.csprojAssemblyReference.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentPreExam2\UniAssignmentPreExam2\obj\Debug\UniAssignmentPreExam2.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentPreExam2\UniAssignmentPreExam2\bin\Debug\UniAssignmentPreExam2.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentPreExam2\UniAssignmentPreExam2\bin\Debug\UniAssignmentPreExam2.pdb
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentPreExam2\UniAssignmentPreExam2\obj\Debug\UniAssignmentPreExam2.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentPreExam2\UniAssignmentPreExam2\obj\Debug\UniAssignmentPreExam2.pdb

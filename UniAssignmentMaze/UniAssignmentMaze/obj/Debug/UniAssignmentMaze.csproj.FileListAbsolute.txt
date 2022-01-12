@@ -1,0 +1,6 @@
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMaze\UniAssignmentMaze\bin\Debug\UniAssignmentMaze.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMaze\UniAssignmentMaze\bin\Debug\UniAssignmentMaze.pdb
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMaze\UniAssignmentMaze\obj\Debug\UniAssignmentMaze.csprojAssemblyReference.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMaze\UniAssignmentMaze\obj\Debug\UniAssignmentMaze.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMaze\UniAssignmentMaze\obj\Debug\UniAssignmentMaze.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMaze\UniAssignmentMaze\obj\Debug\UniAssignmentMaze.pdb

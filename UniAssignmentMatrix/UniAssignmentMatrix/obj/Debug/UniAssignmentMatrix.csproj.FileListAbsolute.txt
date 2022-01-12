@@ -1,0 +1,6 @@
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMatrix\UniAssignmentMatrix\bin\Debug\UniAssignmentMatrix.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMatrix\UniAssignmentMatrix\bin\Debug\UniAssignmentMatrix.pdb
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMatrix\UniAssignmentMatrix\obj\Debug\UniAssignmentMatrix.csprojAssemblyReference.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMatrix\UniAssignmentMatrix\obj\Debug\UniAssignmentMatrix.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMatrix\UniAssignmentMatrix\obj\Debug\UniAssignmentMatrix.exe
+C:\Users\GRIGS\Desktop\VPRAssignments\UniAssignmentMatrix\UniAssignmentMatrix\obj\Debug\UniAssignmentMatrix.pdb
